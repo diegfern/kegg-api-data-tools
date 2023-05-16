@@ -20,3 +20,7 @@ The folder names I used was the following:
     ├── source_code
   ```
  Note that bio-embeddings is the previous name for KEGG-encoding repository
+
+# Tools
+- Dallago, C., Schütze, K., Heinzinger, M., Olenyi, T., Littmann, M., Lu, A. X., Yang, K. K., Min, S., Yoon, S., Morton, J. T., & Rost, B. (2021). Learned embeddings from deep learning to visualize and predict protein sets. Current Protocols, 1, e113. doi: 10.1002/cpz1.113
+- Medina-Ortiz, D., Contreras, S., Amado-Hinojosa, J., Torres-Almonacid, J., Asenjo, J. A., Navarrete, M., & Olivera-Nappa, Á. (2022). Generalized Property-Based Encoders and Digital Signal Processing Facilitate Predictive Tasks in Protein Engineering. Frontiers in Molecular Biosciences, 9. doi: 10.3389/fmolb.2022.898627
